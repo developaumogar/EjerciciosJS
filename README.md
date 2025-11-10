@@ -1,46 +1,38 @@
-Ejercicios prácticos de JavaScript
-Este repositorio contiene una colección de ejercicios resueltos que cubren los fundamentos y la estructura del lenguaje JavaScript. Son parte del temario de la asignatura de desarrollo web y están pensados para aprender, practicar y dominar las bases del lenguaje.
+# Ejercicios prácticos de JavaScript
 
-Contenido
-Uso de variables y constantes (let, const)
+Este repositorio contiene una colección de ejercicios resueltos que cubren los fundamentos y la estructura del lenguaje JavaScript. Forman parte del temario de la asignatura de desarrollo web y están pensados para aprender, practicar y dominar las bases del lenguaje.
 
-Tipos de datos en JavaScript (números, cadenas, booleanos, arrays, objetos)
+## Contenido
 
-Operadores aritméticos, lógicos y de comparación
+- Uso de variables y constantes (`let`, `const`)  
+- Tipos de datos en JavaScript (números, cadenas, booleanos, arrays, objetos)  
+- Operadores aritméticos, lógicos y de comparación  
+- Estructuras de control (`if`, `else`, `switch`)  
+- Bucles (`for`, `while`, `do-while`)  
+- Funciones y procedimientos  
+- Manejo y prueba de errores (`try...catch`)  
+- Manipulación del DOM y eventos básicos  
 
-Estructuras de control (if, else, switch)
+## Estructura del repositorio
 
-Bucles (for, while, do-while)
-
-Funciones y procedimientos
-
-Manejo y prueba de errores (try...catch)
-
-Manipulación del DOM y eventos básicos
+Cada ejercicio incluye comentarios explicativos y está pensado para ser entendido de forma autónoma. Puedes clonar el repositorio y ejecutar los archivos directamente en tu navegador o editor favorito.
 
 
-Estructura del repositorio
-Cada ejercicio está acompañado de comentarios explicativos en el código y está pensado para ser entendido de forma autónoma. Puedes clonar el repositorio y ejecutar los archivos directamente en tu navegador o editor favorito.
+## Cómo usar este repositorio
 
-text
-/ejercicios
-  /01-variables.js
-  /02-constantes.js
-  /03-tipos.js
-  /04-arrays.js
-  /05-objetos.js
-  /...
-README.md
-Cómo usar este repositorio
-Clona este repo en tu máquina con:
+1. Clona este repositorio en tu máquina:
 
-git clone https://github.com/developaumogar/ejerciciosJS.git
-Abre los archivos .js para estudiar y modificar.
+   ```bash
+   git clone https://github.com/developaumogar/EjerciciosJS.git
 
-Ejecuta los ejercicios en la consola del navegador o con Node.js.
+   ## Cómo usar este repositorio
 
-Modifica, añade tus notas y experimenta cambiando los ejemplos.
+- Abre los archivos `.js` para estudiar y modificar.
+- Ejecuta los ejercicios en la consola del navegador o con Node.js.
+- Modifica, añade tus notas y experimenta cambiando los ejemplos.
 
-Autor y agradecimientos
-Autor: Paula Monedero García
-Basado en el temario oficial y prácticas realizadas para el aprendizaje de JavaScript.
+## Autor y agradecimientos
+
+- **Autor:** Paula Monedero García
+- Basado en el temario oficial y prácticas realizadas para el aprendizaje de JavaScript.
+
