@@ -1,0 +1,12 @@
+<h1 id="titulo">Título Original</h1>
+<button id="btn-cambiar">Cambiar Título</button>
+<script>
+    let titulo = document.getElementById("titulo");
+    let boton = document.getElementById("btn-cambiar");
+    boton.addEventListener("click", ()=> {
+        titulo.textContent = "¡Título modificado!";
+        titulo.style.color = "red";
+    })
+    
+    
+</script>
