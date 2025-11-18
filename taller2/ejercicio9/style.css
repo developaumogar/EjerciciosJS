@@ -1,0 +1,29 @@
+#galeria-colores {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  gap: 10px;
+}
+.color-box {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.color-box[data-color="#ff6b6b"] {
+  background-color: #ff6b6b;
+}
+.color-box[data-color="#4ecdc4"] {
+  background-color: #4ecdc4;
+}
+.color-box[data-color="#45b7d1"] {
+  background-color: #45b7d1;
+}
+.color-box[data-color="#96ceb4"] {
+  background-color: #96ceb4;
+}
+.color-box[data-color="#feca57"] {
+  background-color: #feca57;
+}
+.color-box[data-color="#ff9ff3"] {
+  background-color: #ff9ff3;
+}
